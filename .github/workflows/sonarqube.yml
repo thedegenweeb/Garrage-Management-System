@@ -38,3 +38,4 @@ jobs:
             -Dsonar.projectKey=thedegenweeb_Garrage-Management-System
             -Dsonar.sources=.
             -Dsonar.verbose=true
+            -Dsonar.organization=wld
